@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real estate attributes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-29 10:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juan Ramón <juanramon@osclass.org>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu_HU\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SearchPath-0: /var/www/osclass-plugins-git/realestate_attributes\n"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:58
+#: /var/www/osclass-plugins-git/realestate_attributes/index.php:299
+msgid "Property types"
+msgstr "Ingatlan típusok"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:85
+msgid "Delete"
+msgstr "Törlés"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:91
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:98
+msgid "Add new property types"
+msgstr "Új ingatlan típus hozzáadása"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:119
+msgid "Add new"
+msgstr "Új ingatlan hirdetés"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:130
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/conf.php:132
+msgid "Deleting property types may end in errors. Some of those property types could be attached to some actual items"
+msgstr "Az ingatlan típusok törlése hibákat okozhat. A típushoz tartozó ingatlanok nem fognak megjelenni az oldalon."
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:13
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:9
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:103
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:75
+msgid "Type"
+msgstr "Típus"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:19
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:25
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:42
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:116
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:76
+msgid "Property type"
+msgstr "Ingatlan típusa"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:25
+msgid "Num. Rooms"
+msgstr "Szobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:31
+msgid "Num. Bathrooms"
+msgstr "Fürdőszobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:37
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:91
+msgid "Status"
+msgstr "Épület állapota"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:43
+msgid "Square Meters"
+msgstr "Épület alapterülete"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:49
+msgid "Square Meters (total)"
+msgstr "Telek mérete"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:55
+msgid "Num. Floors"
+msgstr "Emeletek száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:61
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:113
+msgid "Construction Year"
+msgstr "Építés éve"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:67
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:157
+msgid "Condition"
+msgstr "Feltételek"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:73
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:79
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:166
+msgid "Agency"
+msgstr "Ingatlan iroda neve"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:85
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:175
+msgid "Floor Number"
+msgstr "Emelet"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:91
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:257
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:282
+msgid "Transport"
+msgstr "Megtekinthető (pl:8:00-16:00)"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:97
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:266
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:291
+msgid "Zone"
+msgstr "A környékről"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:104
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:187
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:197
+msgid "Heating"
+msgstr "Fűtés"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:110
+msgid "Air Condition"
+msgstr "Légkondicionáló"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:116
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:203
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:203
+msgid "Elevator"
+msgstr "Lift"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:122
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:211
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:206
+msgid "Terrace"
+msgstr "Terasz"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:128
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:219
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:209
+msgid "Parking"
+msgstr "Parkoló"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:134
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:227
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:212
+msgid "Furnished"
+msgstr "Berendezett"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:140
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:235
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:215
+msgid "New"
+msgstr "Új"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:146
+msgid "By Owner"
+msgstr "Tulajdonos"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:156
+msgid "Details"
+msgstr "Részletek"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/helper.php:173
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:179
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:194
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:83
+msgid "Other characteristics"
+msgstr "Egyéb jellemzők"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/index.php:298
+msgid "Configure plugin"
+msgstr "Bővítmény konfigurálása"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/index.php:300
+msgid "View options"
+msgstr "Opciók megtekintése"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:1
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:100
+msgid "Realestate attributes"
+msgstr "Jellemzők"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:11
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:107
+msgid "For rent"
+msgstr "Kiadó"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:12
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:108
+msgid "For sale"
+msgstr "Eladó"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:65
+msgid "Num. of rooms"
+msgstr "Szobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:78
+msgid "Num. of bathrooms"
+msgstr "Fürdőszobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:93
+msgid "New construction"
+msgstr "Új építésű"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:94
+msgid "To renovate"
+msgstr "Felújítandó"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:95
+msgid "Good condition"
+msgstr "Jó állapotú"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:104
+msgid "Square meters"
+msgstr "Épület alapterülete"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:122
+msgid "Square meters (total)"
+msgstr "Telek mérete"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:131
+msgid "Num. of floors"
+msgstr "Emeletek száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:144
+msgid "Num. of garages (place for a car = one garage)"
+msgstr "Garázs száma (autóhelyek száma a garázsban)"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:195
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:200
+msgid "Air condition"
+msgstr "Légkondicionáló"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/item_edit.php:243
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:218
+msgid "By owner"
+msgstr "Tulajdonos"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:106
+msgid "Undefined"
+msgstr "NEM MEGHATÁROZOTT"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:119
+msgid "Select a property type"
+msgstr "Ingatlan típusa"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:130
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:77
+msgid "Num. Floors Range"
+msgstr "Emeletek száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:140
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:78
+msgid "Rooms Range"
+msgstr "Szobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:151
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:79
+msgid "Bathrooms Range"
+msgstr "A fürdőszobák száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:162
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:80
+msgid "Garages Range"
+msgstr "Garázsok Száma"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:173
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:81
+msgid "Construction year Range"
+msgstr "Építés éve"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/search_form.php:184
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:82
+msgid "Square Meters Range"
+msgstr "Négyzetméter (összesen)"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:27
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:34
+msgid "Settings saved!"
+msgstr "Beállítások elmentve!"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:56
+msgid "Display options"
+msgstr "Kijelző opciók"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:57
+msgid "Display realestate attributes in listing page..."
+msgstr "Ingatlan tulajdonságok felsorolása az oldalon"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:58
+msgid "After item description"
+msgstr "Leírás után"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:59
+msgid "Manually"
+msgstr "Manuális"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:60
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:86
+msgid "Update options"
+msgstr "Frissítés"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:68
+msgid "Filters"
+msgstr "Szűrők"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:69
+msgid "Show filters in search page"
+msgstr "Szűrés megjelenítése a keresőoldalon"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:70
+msgid "Show all filters"
+msgstr "Mutasd az összes szűrőt"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:71
+msgid "Hide all filters"
+msgstr "Szűrések elrejtése"
+
+#: /var/www/osclass-plugins-git/realestate_attributes/view.php:72
+msgid "Show only specified filters"
+msgstr "Speciális szűrők mutatása"
